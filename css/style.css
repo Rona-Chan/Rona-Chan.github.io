@@ -1923,6 +1923,7 @@ body .symp-btn{
 		margin-top:120px;
 	}
 	/*Instead of -45deg*/
+	/*
 	.front-person-img > img{
 		-webkit-transform:rotate(-45deg) translateY(45px);
 		-moz-transform:rotate(-45deg) translateY(45px);
@@ -1933,4 +1934,5 @@ body .symp-btn{
 		bottom:0;
 		left:-40px;
 	}
+	*/
 }
