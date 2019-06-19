@@ -1809,17 +1809,21 @@ body .symp-btn{
 		height:360px;
 		width:360px;
 	}
-	/*
 	.front-person-img > img{
-		
+		-webkit-transform:rotate(0deg);
+		-moz-transform:rotate(0deg);
+		-ms-transform:rotate(0deg);
+		-o-transform:rotate(0deg);
+		transform:rotate(0deg);
+		/*
 		-webkit-transform:rotate(-45deg) translateY(45px);
 		-moz-transform:rotate(-45deg) translateY(45px);
 		-ms-transform:rotate(-45deg) translateY(45px);
 		-o-transform:rotate(-45deg) translateY(45px);
 		transform:rotate(-45deg) translateY(45px);
-		
+		*/
 	}
-	*/
+
 	.front-person-links{
 		-webkit-transform:rotate(0deg);
 		-moz-transform:rotate(0deg);
