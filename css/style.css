@@ -443,7 +443,8 @@ body.section-show .transition-mask:before{
 }
 .front-heading{
 	text-align:center;
-	margin-top:50px;
+	margin-top:40px;
+	margin-bottom: 40px;
 }
 .front-heading > h2{
 	font-size:55px;
