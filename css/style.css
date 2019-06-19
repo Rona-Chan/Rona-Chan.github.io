@@ -1817,11 +1817,14 @@ body .symp-btn{
 		-o-transform:rotate(0deg);
 		transform:rotate(0deg);
 		*/
+		/*
 		-webkit-transform:rotate(-45deg) translateY(45px);
 		-moz-transform:rotate(-45deg) translateY(45px);
 		-ms-transform:rotate(-45deg) translateY(45px);
 		-o-transform:rotate(-45deg) translateY(45px);
 		transform:rotate(-45deg) translateY(45px);
+		*/
+		text-align:center;
 	}
 
 	.front-person-links{
