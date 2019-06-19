@@ -458,7 +458,6 @@ body.section-show .transition-mask:before{
 	z-index:10;
 	color:#000;
 	font-family: 'Playfair Display', serif;
-	font-style:italic;
 	text-transform:uppercase;
 }
 
@@ -469,9 +468,9 @@ body.section-show .transition-mask:before{
 	background:#F0F0F0;
 	position:relative;
 	z-index:15;
-	/* -webkit-transition:height .5s .3s ease, transform .5s .8s ease;
+	-webkit-transition:height .5s .3s ease, transform .5s .8s ease;
 	-moz-transition:height .5s .3s ease, transform .5s .8s ease;
-	transition:height .5s .3s ease, transform .5s .8s ease; */
+	transition:height .5s .3s ease, transform .5s .8s ease;
 	margin:100px auto;
 	margin-bottom:0;
 /*	-webkit-transform:rotate(45deg);
