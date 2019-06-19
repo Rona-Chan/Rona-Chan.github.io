@@ -1919,24 +1919,15 @@ body .symp-btn{
 		height:0;
 		margin-top:120px;
 	}
+	/*Instead of -45deg*/
 	.front-person-img > img{
-		-webkit-transform:rotate(0deg);
-		-moz-transform:rotate(0deg);
-		-ms-transform:rotate(0deg);
-		-o-transform:rotate(0deg);
-		transform:rotate(0deg);
+		-webkit-transform:rotate(0deg) translateY(45px);
+		-moz-transform:rotate(0deg) translateY(45px);
+		-ms-transform:rotate(0deg) translateY(45px);
+		-o-transform:rotate(0deg) translateY(45px);
+		transform:rotate(0deg) translateY(100px);
 		position:absolute;
 		bottom:0;
 		left:-40px;
-		/*
-		-webkit-transform:rotate(-45deg) translateY(45px);
-		-moz-transform:rotate(-45deg) translateY(45px);
-		-ms-transform:rotate(-45deg) translateY(45px);
-		-o-transform:rotate(-45deg) translateY(45px);
-		transform:rotate(-45deg) translateY(100px);
-		position:absolute;
-		bottom:0;
-		left:-40px;
-		*/
 	}
 }
