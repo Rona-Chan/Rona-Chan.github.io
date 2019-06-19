@@ -1809,6 +1809,7 @@ body .symp-btn{
 		height:360px;
 		width:360px;
 	}
+	/*
 	.front-person-img > img{
 		/*
 		-webkit-transform:rotate(0deg);
@@ -1823,10 +1824,9 @@ body .symp-btn{
 		-ms-transform:rotate(-45deg) translateY(45px);
 		-o-transform:rotate(-45deg) translateY(45px);
 		transform:rotate(-45deg) translateY(45px);
-		*/
 		text-align:center;
 	}
-
+*/
 	.front-person-links{
 		-webkit-transform:rotate(0deg);
 		-moz-transform:rotate(0deg);
