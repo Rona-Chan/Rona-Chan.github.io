@@ -1778,7 +1778,7 @@ body .symp-btn{
 		transform:none;
 	}
 	.front-person-links > ul > li{
-		margin-bottom:1px;
+		margin-bottom:100px;
 		display:block;
 	}
 	.front-person-links > ul > li > a:before,
@@ -1810,6 +1810,7 @@ body .symp-btn{
 		letter-spacing:2px;
 		text-transform:none;
 	}
+	/*
 	.front-person-titles{
 		margin-top:125px;
 		transform:none;
@@ -1830,15 +1831,15 @@ body .symp-btn{
 		left:auto !important;
 		bottom:auto !important;
 	}
-
+*/
 	.front-heading{
-		margin-top:80px;
+		margin-top:50px;
 	}
 }
 @media (max-width:768px){
 
 	.front-person-links{
-		margin-top:65px;
+		margin-top:50px;
 	}
 	.front-person-img{
 		width:65%;
@@ -1846,6 +1847,7 @@ body .symp-btn{
 		height:0;
 		margin-top:120px;
 	}
+	/*
 	.front-person-img > img{
 		-webkit-transform:rotate(-45deg) translateY(45px);
 		-moz-transform:rotate(-45deg) translateY(45px);
@@ -1856,6 +1858,7 @@ body .symp-btn{
 		bottom:0;
 		left:-40px;
 	}
+	*/
 }
 /*
 .front-person-titles{
