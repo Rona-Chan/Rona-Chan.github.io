@@ -690,8 +690,8 @@ body.section-show .transition-mask:before{
 }
 .info-list > li{
 	margin-bottom:20px;
-	float:none;
-	width:25%;
+	float:left;
+	width:26%;
 }
 .info-list > li > .inner{
 	padding:15px 0;
