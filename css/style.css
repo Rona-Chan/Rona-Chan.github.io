@@ -694,7 +694,7 @@ body.section-show .transition-mask:before{
 	width:25%;
 }
 .info-list > li > .inner{
-	padding:15px 0;
+	padding:10px 0;
 }
 .info-list > li > *{
 	line-height:1em;
@@ -703,7 +703,7 @@ body.section-show .transition-mask:before{
 .info-list > li > .inner > h4{
 	font-size:13px;
 	letter-spacing:4px;
-	margin-right:12px;
+	margin-right:16px;
 	margin-bottom:8px;
 	display:block;
 	color:#333;
